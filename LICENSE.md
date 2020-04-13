@@ -1,8 +1,7 @@
 # Research License 1.0
 ## Definitions
 1. **AUTHOR** — Tyler W.R. Cole
-2. **SOFTWARE** — The Hive AI Programming Tool, as served from
-[GitHub](https://github.com/Trylobot/hive)
+2. **SOFTWARE** — Hive-3js, as served from [GitHub](https://github.com/Trylobot/hive-3js)
 3. **INTENT/PURPOSE** — Non-commercial license of *SOFTWARE* written by *AUTHOR*
 4. **LICENSE** — This document, in whole
 5. **LICENSEE** — Any person or organization who receives *SOFTWARE* with a copy
